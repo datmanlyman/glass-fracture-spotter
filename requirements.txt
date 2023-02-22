@@ -1,0 +1,9 @@
+ultralytics==8.0.40
+keras==2.11.0
+tensorflow-macos==2.11.0
+tensorflow-metal==0.7.1
+python-telegram-bot==20.1
+telegram==0.0.1
+opencv-python==4.6.0.66
+numpy==1.23.5
+Pillow==9.3.0
