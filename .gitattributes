@@ -1,4 +1,4 @@
-*.pt filter=lfs diff=lfs merge=lfs -text
+best.pt filter=lfs diff=lfs merge=lfs -text
 InceptionV3_Crack_BW/** filter=lfs diff=lfs merge=lfs -text
 ResNet101_Crack_BW/** filter=lfs diff=lfs merge=lfs -text
 VGG16_Crack_BW/** filter=lfs diff=lfs merge=lfs -text

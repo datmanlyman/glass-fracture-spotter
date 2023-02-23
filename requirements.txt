@@ -1,4 +1,4 @@
-ultralytics==8.0.40
+ultralytics==8.0.43
 keras==2.11.0
 tensorflow-macos==2.11.0
 tensorflow-metal==0.7.1
